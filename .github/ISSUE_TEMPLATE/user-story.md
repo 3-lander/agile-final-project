@@ -1,10 +1,8 @@
 Markdown
 **User Story:**
-As a [role/user], 
-I need [functionality/feature], 
-So that [business value/benefit].
+As a Customer, I need to read a product from the catalog, So that I can view its price and specifications.
 
 **Acceptance Criteria:**
-Given [initial context/state],
-When [action is taken],
-Then [expected outcome/result].
+Given the product exists in the active inventory,
+When I click on the product image in the catalog,
+Then I am redirected to a detailed product page.
